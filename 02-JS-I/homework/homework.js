@@ -42,13 +42,15 @@ function suma(x, y) {
 
 function resta(x, y) {
   var resta = x - y ; 
-  return resta
+  return resta ;
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
 }
 
 function multiplica(x, y) {
+var multiplica = x * y ;
+return multiplica ;
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
   
