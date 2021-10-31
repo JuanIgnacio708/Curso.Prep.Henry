@@ -32,49 +32,58 @@ function devolverString(str) { return str
 }
 
 function suma(x, y) {  
-  var suma = x + y ;
-  return suma ;
+
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
+    var suma = x + y ;
+  return suma ;
   
 }
 
 function resta(x, y) {
-  var resta = x - y ; 
-  return resta ;
+  
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
+  var resta = x - y ; 
+  return resta ;
   
 }
 
 function multiplica(x, y) {
-var multiplica = x * y ;
-return multiplica ;
+
   // Multiplica "x" por "y" y devuelve el valor
-  // Tu código:
+  // Tu código: 
+  var multiplica = x * y ;
+return multiplica ;
   
 }
 
 function divide(x, y) {
-  var divide = x / y ;
-  return divide ; 
+  
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
+  var divide = x / y ;
+  return divide ; 
   
 }
 
 function sonIguales(x, y) {
+  
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
   // Tu código:
+  if (x > y) {
+    return true ;
+  }
+  return false ;
   
 }
 
 function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
-  // Tu código:
+  // Tu código: 
   
 }
 
