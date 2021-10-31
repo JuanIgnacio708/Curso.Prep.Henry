@@ -31,7 +31,8 @@ function devolverString(str) { return str
   
 }
 
-function suma(x, y) {  var suma = x + y ;
+function suma(x, y) {  
+  var suma = x + y ;
   return suma ;
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
@@ -40,6 +41,8 @@ function suma(x, y) {  var suma = x + y ;
 }
 
 function resta(x, y) {
+  var resta = x - y ; 
+  return resta
   // Resta "y" de "x" y devuelve el valor
   // Tu código:
   
