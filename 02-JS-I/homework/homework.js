@@ -57,6 +57,8 @@ return multiplica ;
 }
 
 function divide(x, y) {
+  var divide = x / y ;
+  return divide ; 
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
   
